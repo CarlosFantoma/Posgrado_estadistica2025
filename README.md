@@ -15,7 +15,7 @@ Este repositorio documenta los tres laboratorios realizados durante el curso de 
 - `Laboratorios/`: Archivos de los tres laboratorios realizados.
   - `Lab_01.html`
   - `Lab_02.html`
-  - `Lab_03.pdf`
+  - `Lab_03.1.pdf`
 
 Los archivos están ordenados por número para facilitar la revisión y trazabilidad del trabajo.
 
